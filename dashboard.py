@@ -1,3 +1,9 @@
+import numpy as np
+import pandas as pd 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
+
 # Mengambil dataset
 file_1_path = 'data/data_1.csv'
 file_2_path = 'data/data_2.csv'
